@@ -1,4 +1,4 @@
 
 module.exports = {
-    JWT_SECRET : "himank_server"
+    JWT_SECRET : "YOUR_SECREY_KEY"
 }
